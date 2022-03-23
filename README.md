@@ -23,7 +23,7 @@
             ( pip2 install requests
             ( pip2 install futures
             ( pip2 install bs4
-            ( git clone https://github.com/Jeeck-XN/Lite
+            ( git clone https://github.com/AmirXploit/Lite
             ( cd Lite
             ( git pull
             ( python2 Lite.py
@@ -42,7 +42,7 @@
 ####    My Sosia media
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/jecko.ramadhan.9)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/jecko.ramadhan.9)
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6281392505882?text=Asalamualaikum+bang) <br><br>
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/62815172950734?text=Asalamualaikum+bang) <br><br>
 #
   
   
